@@ -1,1 +1,0 @@
-console.log("hi there lets's started with js");
