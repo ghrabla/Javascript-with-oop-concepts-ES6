@@ -26,6 +26,6 @@ const book2 = {
     }
 }
 
-// console.log(book1.getbookinfo()) 
-// console.log(Object.values(book2)) 
-// console.log(Object.keys(book2)) 
+console.log(book1.getbookinfo())
+console.log(Object.values(book2)) 
+console.log(Object.keys(book2)) 
